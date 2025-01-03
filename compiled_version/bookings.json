@@ -1,0 +1,284 @@
+{
+  "data": [
+    {
+      "reservationId": 1,
+      "hotelId": 1,
+      "arrival": "2024-12-16",
+      "departure": "2024-12-17",
+      "roomType": "SGL"
+    },
+    {
+      "reservationId": 2,
+      "hotelId": 1,
+      "arrival": "2024-11-20",
+      "departure": "2024-11-25",
+      "roomType": "DBL"
+    },
+    {
+      "reservationId": 3,
+      "hotelId": 1,
+      "arrival": "2024-11-22",
+      "departure": "2024-11-30",
+      "roomType": "STE"
+    },
+    {
+      "reservationId": 4,
+      "hotelId": 1,
+      "arrival": "2024-11-03",
+      "departure": "2024-12-10",
+      "roomType": "STE"
+    },
+    {
+      "reservationId": 5,
+      "hotelId": 1,
+      "arrival": "2024-12-25",
+      "departure": "2024-12-30",
+      "roomType": "SGL"
+    },
+    {
+      "reservationId": 6,
+      "hotelId": 1,
+      "arrival": "2024-11-11",
+      "departure": "2024-11-16",
+      "roomType": "DBL"
+    },
+    {
+      "reservationId": 7,
+      "hotelId": 1,
+      "arrival": "2024-12-01",
+      "departure": "2024-12-14",
+      "roomType": "DBL"
+    },
+    {
+      "reservationId": 8,
+      "hotelId": 1,
+      "arrival": "2024-12-20",
+      "departure": "2024-12-25",
+      "roomType": "STE"
+    },
+    {
+      "reservationId": 9,
+      "hotelId": 1,
+      "arrival": "2024-12-28",
+      "departure": "2024-12-30",
+      "roomType": "STE"
+    },
+    {
+      "reservationId": 10,
+      "hotelId": 1,
+      "arrival": "2024-11-19",
+      "departure": "2024-11-25",
+      "roomType": "STE"
+    },
+    {
+      "reservationId": 11,
+      "hotelId": 1,
+      "arrival": "2024-12-03",
+      "departure": "2024-12-25",
+      "roomType": "SGL"
+    },
+    {
+      "reservationId": 12,
+      "hotelId": 1,
+      "arrival": "2024-12-15",
+      "departure": "2024-12-20",
+      "roomType": "STE"
+    },
+    {
+      "reservationId": 13,
+      "hotelId": 1,
+      "arrival": "2024-12-02",
+      "departure": "2024-12-16",
+      "roomType": "DBL"
+    },
+    {
+      "reservationId": 14,
+      "hotelId": 1,
+      "arrival": "2024-11-13",
+      "departure": "2024-12-09",
+      "roomType": "STE"
+    },
+    {
+      "reservationId": 15,
+      "hotelId": 1,
+      "arrival": "2024-11-13",
+      "departure": "2024-11-30",
+      "roomType": "SGL"
+    },
+    {
+      "reservationId": 16,
+      "hotelId": 1,
+      "arrival": "2024-11-03",
+      "departure": "2024-11-08",
+      "roomType": "STE"
+    },
+    {
+      "reservationId": 17,
+      "hotelId": 1,
+      "arrival": "2024-11-06",
+      "departure": "2024-12-05",
+      "roomType": "STE"
+    },
+    {
+      "reservationId": 18,
+      "hotelId": 1,
+      "arrival": "2024-11-25",
+      "departure": "2024-11-30",
+      "roomType": "SGL"
+    },
+    {
+      "reservationId": 19,
+      "hotelId": 1,
+      "arrival": "2024-12-21",
+      "departure": "2024-12-25",
+      "roomType": "SGL"
+    },
+    {
+      "reservationId": 20,
+      "hotelId": 1,
+      "arrival": "2024-11-25",
+      "departure": "2024-11-30",
+      "roomType": "STE"
+    },
+    {
+      "reservationId": 21,
+      "hotelId": 2,
+      "arrival": "2024-11-15",
+      "departure": "2024-11-26",
+      "roomType": "SGL"
+    },
+    {
+      "reservationId": 22,
+      "hotelId": 2,
+      "arrival": "2024-12-01",
+      "departure": "2024-12-08",
+      "roomType": "DBL"
+    },
+    {
+      "reservationId": 23,
+      "hotelId": 2,
+      "arrival": "2024-12-24",
+      "departure": "2024-12-26",
+      "roomType": "SGL"
+    },
+    {
+      "reservationId": 24,
+      "hotelId": 2,
+      "arrival": "2024-12-05",
+      "departure": "2024-12-26",
+      "roomType": "DBL"
+    },
+    {
+      "reservationId": 25,
+      "hotelId": 2,
+      "arrival": "2024-11-12",
+      "departure": "2024-12-01",
+      "roomType": "SGL"
+    },
+    {
+      "reservationId": 26,
+      "hotelId": 2,
+      "arrival": "2024-12-02",
+      "departure": "2024-12-11",
+      "roomType": "SGL"
+    },
+    {
+      "reservationId": 27,
+      "hotelId": 2,
+      "arrival": "2024-11-20",
+      "departure": "2024-11-23",
+      "roomType": "SGL"
+    },
+    {
+      "reservationId": 28,
+      "hotelId": 2,
+      "arrival": "2024-11-14",
+      "departure": "2024-11-24",
+      "roomType": "SGL"
+    },
+    {
+      "reservationId": 29,
+      "hotelId": 2,
+      "arrival": "2024-11-07",
+      "departure": "2024-11-22",
+      "roomType": "DBL"
+    },
+    {
+      "reservationId": 30,
+      "hotelId": 2,
+      "arrival": "2024-12-23",
+      "departure": "2024-12-28",
+      "roomType": "DBL"
+    },
+    {
+      "reservationId": 31,
+      "hotelId": 2,
+      "arrival": "2024-11-26",
+      "departure": "2024-11-30",
+      "roomType": "SGL"
+    },
+    {
+      "reservationId": 32,
+      "hotelId": 2,
+      "arrival": "2024-11-27",
+      "departure": "2024-12-05",
+      "roomType": "DBL"
+    },
+    {
+      "reservationId": 33,
+      "hotelId": 2,
+      "arrival": "2024-12-04",
+      "departure": "2024-12-16",
+      "roomType": "DBL"
+    },
+    {
+      "reservationId": 34,
+      "hotelId": 2,
+      "arrival": "2024-10-31",
+      "departure": "2024-11-15",
+      "roomType": "DBL"
+    },
+    {
+      "reservationId": 35,
+      "hotelId": 2,
+      "arrival": "2024-11-30",
+      "departure": "2024-12-07",
+      "roomType": "SGL"
+    },
+    {
+      "reservationId": 36,
+      "hotelId": 2,
+      "arrival": "2024-12-14",
+      "departure": "2024-12-22",
+      "roomType": "DBL"
+    },
+    {
+      "reservationId": 37,
+      "hotelId": 2,
+      "arrival": "2024-12-27",
+      "departure": "2024-12-28",
+      "roomType": "DBL"
+    },
+    {
+      "reservationId": 38,
+      "hotelId": 2,
+      "arrival": "2024-10-31",
+      "departure": "2024-11-08",
+      "roomType": "DBL"
+    },
+    {
+      "reservationId": 39,
+      "hotelId": 2,
+      "arrival": "2024-12-02",
+      "departure": "2024-12-13",
+      "roomType": "DBL"
+    },
+    {
+      "reservationId": 40,
+      "hotelId": 2,
+      "arrival": "2024-12-01",
+      "departure": "2024-12-22",
+      "roomType": "DBL"
+    }
+  ]
+}

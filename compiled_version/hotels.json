@@ -1,0 +1,207 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "Hotel California",
+      "roomTypes": [
+        {
+          "code": "SGL",
+          "description": "Single Room",
+          "amenities": ["WiFi", "TV"],
+          "features": ["Non-smoking"]
+        },
+        {
+          "code": "DBL",
+          "description": "Double Room",
+          "amenities": ["WiFi", "TV", "Minibar"],
+          "features": ["Non-smoking", "Sea View"]
+        },
+        {
+          "code": "STE",
+          "description": "Suite",
+          "amenities": ["WiFi", "TV", "Minibar", "Kitchenette"],
+          "features": [
+            "Non-smoking",
+            "Sea View",
+            "Butler service",
+            "Private balcony"
+          ]
+        }
+      ],
+      "rooms": [
+        {
+          "roomType": "SGL",
+          "roomId": 101
+        },
+        {
+          "roomType": "SGL",
+          "roomId": 102
+        },
+        {
+          "roomType": "SGL",
+          "roomId": 103
+        },
+        {
+          "roomType": "SGL",
+          "roomId": 104
+        },
+        {
+          "roomType": "SGL",
+          "roomId": 105
+        },
+        {
+          "roomType": "SGL",
+          "roomId": 106
+        },
+        {
+          "roomType": "DBL",
+          "roomId": 201
+        },
+        {
+          "roomType": "DBL",
+          "roomId": 202
+        },
+        {
+          "roomType": "DBL",
+          "roomId": 203
+        },
+        {
+          "roomType": "DBL",
+          "roomId": 204
+        },
+        {
+          "roomType": "DBL",
+          "roomId": 205
+        },
+        {
+          "roomType": "DBL",
+          "roomId": 206
+        },
+        {
+          "roomType": "STE",
+          "roomId": 301
+        },
+        {
+          "roomType": "STE",
+          "roomId": 302
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Sunshine Resort Spa",
+      "roomTypes": [
+        {
+          "code": "SGL",
+          "description": "Single Room",
+          "amenities": ["WiFi", "TV"],
+          "features": ["Non-smoking"]
+        },
+        {
+          "code": "DBL",
+          "description": "Double Room",
+          "amenities": ["WiFi", "TV", "Minibar", "Kitchenette"],
+          "features": ["Non-smoking", "Private balcony"]
+        }
+      ],
+      "rooms": [
+        {
+          "roomType": "SGL",
+          "roomId": 101
+        },
+        {
+          "roomType": "SGL",
+          "roomId": 102
+        },
+        {
+          "roomType": "SGL",
+          "roomId": 103
+        },
+        {
+          "roomType": "SGL",
+          "roomId": 104
+        },
+        {
+          "roomType": "SGL",
+          "roomId": 105
+        },
+        {
+          "roomType": "SGL",
+          "roomId": 106
+        },
+        {
+          "roomType": "SGL",
+          "roomId": 107
+        },
+        {
+          "roomType": "SGL",
+          "roomId": 108
+        },
+        {
+          "roomType": "SGL",
+          "roomId": 109
+        },
+        {
+          "roomType": "SGL",
+          "roomId": 110
+        },
+        {
+          "roomType": "DBL",
+          "roomId": 201
+        },
+        {
+          "roomType": "DBL",
+          "roomId": 202
+        },
+        {
+          "roomType": "DBL",
+          "roomId": 203
+        },
+        {
+          "roomType": "DBL",
+          "roomId": 204
+        },
+        {
+          "roomType": "DBL",
+          "roomId": 205
+        },
+        {
+          "roomType": "DBL",
+          "roomId": 206
+        },
+        {
+          "roomType": "DBL",
+          "roomId": 207
+        },
+        {
+          "roomType": "DBL",
+          "roomId": 208
+        },
+        {
+          "roomType": "DBL",
+          "roomId": 209
+        },
+        {
+          "roomType": "DBL",
+          "roomId": 210
+        },
+        {
+          "roomType": "DBL",
+          "roomId": 211
+        },
+        {
+          "roomType": "DBL",
+          "roomId": 212
+        },
+        {
+          "roomType": "DBL",
+          "roomId": 213
+        },
+        {
+          "roomType": "DBL",
+          "roomId": 214
+        }
+      ]
+    }
+  ]
+}

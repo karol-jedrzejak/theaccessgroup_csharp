@@ -1,2 +1,4 @@
 # theaccessgroup_csharp
- Prject for Access Group Company recruitment process.
+
+Project for Access Group Company recruitment process.
+Created By Karol Jędrzejak 2025

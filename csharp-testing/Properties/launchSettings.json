@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "csharp-testing (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "csharp-testing (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
