@@ -1,4 +1,7 @@
-# theaccessgroup_csharp
+# Zadanie eSprzedaż
+ 
+<img src="https://karol-jedrzejak.github.io/static/media/8.47e919f455e2daa18ca3.jpg" height="400">
 
-Project for Access Group Company recruitment process.
-Created By Karol Jędrzejak 2025
+## About Project
+
+A project prepared for the recruitment process of The Access Group company.
